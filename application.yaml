@@ -1,0 +1,2 @@
+test:
+  property: "Spring Cloud Config - Application.yaml property"
